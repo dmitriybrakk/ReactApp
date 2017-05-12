@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.12.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0b5e946b76cdb1f00b18f2981e7d997141a66c9f">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/infer-annotations-1.5_5f3e5c56bfbfd966cb7cc748a46bccac94132b14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_b7dda568051b6dd2327273457ba9f9d49392ff6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_4c9cba89f915043922e582a25344374dcfc81bcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/support-annotations-23.0.1_d8be67ee86b49f14a24a868369573390b799248d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd4c42401d36342901ac4280fb92a831f8007f3d">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-fresco-0.6.1_1e6b82e35879703d7c93bacd36d64c51594f4f6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.android.support-appcompat-v7-23.0.1_461ef6c63af2a8a7436795a600277137f0d74c34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.android.support-recyclerview-v7-23.0.1_98df6ab82d1e0e34804b9779a3b3097e4e38ff55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-fresco-0.11.0_a66aa5a013f3b4e4f4043dd15a1041fd5ff0674f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.5.0/bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a/okio-1.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/okio-1.5.0_cc364a127bd1d687106c5a947554d19eaacdbee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1d5fddbfc516e39dd74d776e5cca8b761721990b">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-imagepipeline-okhttp-0.6.1_d876f92a48e03f01d6900a6580b64fc7e4a0064f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b651011533c5fae5b936d64a406f6b641a70180c">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/classes_945b32da1671dce54050974da2c297ce5b219793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/okhttp-2.4.0_4ed3bec932f17bf048cbb683b7088e21b5fd933d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/bolts-tasks-1.4.0_be52f6215a79c11487b40d6b47a3e4b0cc14f155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/okhttp-3.4.1_fc02ca376922d42128eabbcafc38cf4e48a566e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/internal_impl-23.2.1_560ad37a8dd48ba146f6c597baf5b1767c2b0dc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/support-annotations-23.2.1_7e039f624e0e9f8abd3edd576c26f30ad030397d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-fbcore-0.11.0_84385eab68b5b106e7b08e8407593e94d934bde1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-imagepipeline-0.11.0_a3aa521fe9e079aa7697caf9a81c15770584d9cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/jackson-core-2.2.3_4abae6122ac243907f3cc0cd531c0184286a753a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/jsr305-3.0.0_3bc0972cadd718efea3cbe0276091fddb26afa19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/infer-annotations-1.5_f70df104701fb4b7e026aeea607ed008754612a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/bolts-android-1.1.4_9ce7cea80e149177d06a02b1aab6e9b578df4426.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/com.android.support-appcompat-v7-23.0.1_3160b7574f49ec07fe1b4a65dc2352654560e228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/library-2.4.0_f373948d2aeb2f2c899f38cce4935f0c328408c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/okhttp-urlconnection-3.4.1_6ac7a4d4319b151389a282631353f663bc0d22e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.soloader-soloader-0.1.0_556a0c3b11a18d1b680aa163672034cb92a6bba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/okio-1.9.0_4980a957c7f4b3dc1d43b2e466d8bc7f7b497ccc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-drawee-0.11.0_6f420960000802a9a350fa6ad74605f532b804b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/okhttp-ws-3.4.1_6478d59225a35b7e87f3a4d2c13b4e19cfd8a896.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eb9817e26186e1a267cdd14211742ecc793de32e">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-imagepipeline-0.6.1_c86ecdabd1a46b9cc6e8dd5905f3f0af501264ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.4.0/69206d28966656052a982ceded583abdeb41cf63/okhttp-ws-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69206d28966656052a982ceded583abdeb41cf63">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/okhttp-ws-2.4.0_b7ace4050f42f78d901a35280f4c75fcd8ca2f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/com.android.support-support-v4-23.0.1_ec3519410e6d5de7dc21101fdbf52c9cdf1abfbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.react-react-native-0.40.0_2087ec2c86930e6dfe6350a664e5192a68ca84ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="450da565d6af036fc344ac57ac41acdc3cdab186">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/classes_f3586732f6e3ca0160109e43f3bc82313c190f82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.android.support-support-v4-23.2.1_88d73d0d29f6a5310d50421fcdc298bf993d5655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5890aba13830ee1b1af1e70a504131d402a109b4">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.react-react-native-0.12.0_3c7747dfff2e1d6fb4cf58ab5786d8b99bda44f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c10091a128e47ed4ef804bd753c0f45745699756">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-fbcore-0.6.1_87b7762c663314cbaa860091099f9e582c1c135c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af0fe468c884e2d153cf564326b23b54ff0040ce">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-drawee-0.6.1_a9b1b1684aaf18f8a6814f58d25f0d6cc6e47ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-i18n/android/build/intermediates/pre-dexed/androidTest/debug/internal_impl-23.0.1_9c7c5fe2ce83e9be45d4b3bacf12e9beb85fc2d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/dmitriy/Symptoma/SymptomaReactApp/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-imagepipeline-base-0.11.0_98dd0eeea3652ead83c1dde3fd754c5ac459bbc8.jar" />
+    </item>
+
+</items>
